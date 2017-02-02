@@ -1,0 +1,15 @@
+---
+- name: Install EPEL repo
+  become: true
+  become_method: sudo
+  package:
+    name: epel-release
+    state: present
+
+- name: Second pass to ensure EPEL is the latest version
+  become: true
+  become_method: sudo
+  package:
+    name: epel-release
+    state: latest
+...

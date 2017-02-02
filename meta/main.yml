@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Phil Porada - philporada@gmail.com
+  description: EPEL repository for RHEL/CentOS.
+  company: MyTallGuy
+  license: BSD
+  min_ansible_version: 2.2
+  platforms:
+    - name: EL
+      versions:
+        - 6
+        - 7
+...
