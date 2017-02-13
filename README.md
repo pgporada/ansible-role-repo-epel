@@ -1,6 +1,6 @@
 # Overview: ansible-role-repo-epel
 
-Installs the [EPEL repository](https://fedoraproject.org/wiki/EPEL) (Extra Packages for Enterprise Linux) for RHEL/CentOS.
+Installs the [EPEL repository](https://fedoraproject.org/wiki/EPEL) (Extra Packages for Enterprise Linux) for RHEL/CentOS. This role was inspired by the geerlingguy.repo-epel role.
 
 - - - -
 # Requirements
