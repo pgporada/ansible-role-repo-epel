@@ -22,4 +22,6 @@ None.
 - - - -
 # License and Author Information
 
+GPLv3
+
 Phil Porada - philporada@gmail.com
